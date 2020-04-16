@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://imgur.com/3NuiLFb" group-title="ENTRETENIMIENTO",EUROCHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://imgur.com/a/ejf4GLm" group-title="ENTRETENIMIENTO",EUROCHANNEL
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/57
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/93FKxqs" group-title="ENTRETENIMIENTO",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://imgur.com/a/kmGRlJq" group-title="ENTRETENIMIENTO",TNT
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/59
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imgur.com/8FaVS9q" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://imgur.com/a/n8pl28U" group-title="ENTRETENIMIENTO",STUDIO UNIVERSAL
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/58
-#EXTINF:-1 tvg-id="AXN" tvg-name="" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="" tvg-logo="https://imgur.com/a/RY3dv4W" group-title="ENTRETENIMIENTO",AXN
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/61
-#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",FXX
+#EXTINF:-1 tvg-id="" tvg-name="FXX" tvg-logo="https://imgur.com/a/kWHIrSb" group-title="ENTRETENIMIENTO",FXX
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/60
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://imgur.com/Wq2r9rC" group-title="ENTRETENIMIENTO",CANAL FOX
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://imgur.com/a/nTZnFlO" group-title="ENTRETENIMIENTO",CANAL FOX
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/64
-#EXTINF:-1 tvg-id="" tvg-name="AMC ESP" tvg-logo="https://imgur.com/17m4w5G" group-title="ENTRETENIMIENTO",AMC ESP
+#EXTINF:-1 tvg-id="" tvg-name="AMC ESP" tvg-logo="https://imgur.com/a/dqRnSeH" group-title="ENTRETENIMIENTO",AMC ESP
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/62
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",FX
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://imgur.com/a/rQYtEK8" group-title="ENTRETENIMIENTO",FX
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/66
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",SYFY
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://imgur.com/a/OLn0JID" group-title="ENTRETENIMIENTO",SYFY
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/68
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://imgur.com/4Px3XYc" group-title="ENTRETENIMIENTO",CINEMAX
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/73
-#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://imgur.com/LPieyEA" group-title="ENTRETENIMIENTO",CINE CANAL
+#EXTINF:-1 tvg-id="" tvg-name="CINE CANAL" tvg-logo="https://imgur.com/a/3qH8des" group-title="ENTRETENIMIENTO",CINE CANAL
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/76
-#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",FXM
+#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://imgur.com/a/U54P5tp" group-title="ENTRETENIMIENTO",FXM
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/80
-#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES PREMIUM" tvg-logo="https://imgur.com/8bDvgPB" group-title="ENTRETENIMIENTO",FOX SERIES PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES PREMIUM" tvg-logo="https://imgur.com/a/YLKiQHN" group-title="ENTRETENIMIENTO",FOX SERIES PREMIUM
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/81
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://imgur.com/PnIji3D" group-title="ENTRETENIMIENTO",FOX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://imgur.com/a/NqO8u7i" group-title="ENTRETENIMIENTO",FOX MOVIES
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/82
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://imgur.com/5pF7Zyv" group-title="ENTRETENIMIENTO",FOX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://imgur.com/a/0yUNN0e" group-title="ENTRETENIMIENTO",FOX ACTION
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/87
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://imgur.com/undefined" group-title="ENTRETENIMIENTO",HBO 2
 http://zutv.zapto.org:8080/JessyStone/AXEZgliIid/88
